@@ -4,10 +4,12 @@
 
 
 
-<p><em>Me puedes encontrar en: <a href="https://www.linkedin.com/in/martinareboredo/">Linkedin</a></br>
-</em></p>
+<h3> 🤝🏻 Para contactarme: </h3>
 
-
+<p align="center">
+<a href="https://www.linkedin.com/in/martinareboredo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@martinareboredo-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:reboredomar1962@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-reboredomar1962@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
 
 ```javascript
 const sobreMi = {
