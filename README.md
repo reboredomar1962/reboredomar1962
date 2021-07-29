@@ -15,6 +15,7 @@ const sobreMi = {
 completamente. Realicé un Bootcamp de +800 horas para convertirme en Full Stack Develo-
 per, donde además de aprender las tecnologías más demandadas por la industria, también
 aprendí habilidades blandas y la metodología de trabajo en equipo Scrum.</p>
+   
    tecnologias: {
       [Javascript, HTML, CSS],
       frontEnd: {
@@ -26,8 +27,10 @@ aprendí habilidades blandas y la metodología de trabajo en equipo Scrum.</p>
       basesDeDatos: ["MongoDB", "SQL"],
       mobile: ["Android", "IOS"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   
+   educacion: ["Plataforma5- Coding Bootcamp"],
+   
+   idiomas: ["Español- nativo", "Ingles- intermedio"],
 };
 ```
 </br></br>
@@ -35,4 +38,4 @@ aprendí habilidades blandas y la metodología de trabajo en equipo Scrum.</p>
 
 ---
 
-⭐️ From [reeveng](https://github.com/reeveng) inspired by [sudiptog81](https://github.com/sudiptog81) and  [FelixRilling](https://github.com/)
+⭐️ From [reboredomar1962](https://github.com/reboredomar1962) 
