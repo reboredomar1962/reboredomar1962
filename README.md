@@ -25,7 +25,6 @@ aprendí habilidades blandas y la metodología de trabajo en equipo Scrum.</p>
          js: ["Node", "Express"],
       },
       basesDeDatos: ["MongoDB", "SQL"],
-      mobile: ["Android", "IOS"]
    },
    
    educacion: ["Plataforma5- Coding Bootcamp"],
